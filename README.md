@@ -60,7 +60,6 @@ Running the Game:
 
 The QuizGame(questions) function is called to start the game.
 
-python
 QuizGame(questions)
 Summary:
 The code creates an interactive quiz game where the user answers multiple-choice questions.
@@ -68,5 +67,3 @@ The code creates an interactive quiz game where the user answers multiple-choice
 The user's score is updated based on their answers, and feedback is provided after each question.
 
 The game runs until all questions have been answered, showing the user's score after each question.
-
-This explanation should help others understand how the code works and its purpose.
